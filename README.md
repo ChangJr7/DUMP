@@ -38,13 +38,13 @@ pip install bs4 lolcat
 
 pip install lolcat
 
-git clone https://github.com/ahmad77412/axi
+git clone https://github.com/ChangJr7/DUMP
 
-cd axi
+cd DUMP
 
 git pull  
   
-python axi.py
+python run.py
 
 Disclaimer
 
